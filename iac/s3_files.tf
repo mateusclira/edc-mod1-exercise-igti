@@ -5,3 +5,4 @@ resource "aws_s3_bucket_object" "codigo_spark_mateus" {
   source = "../job_spark.py"
   etag   = filemd5("../job_spark.py")
 }
+#files was here
