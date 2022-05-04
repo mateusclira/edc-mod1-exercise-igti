@@ -1,3 +1,0 @@
-*.psd filter=lfs diff=lfs merge=lfs -text
-terraform-provider-aws_v4.12.1_x5.psd filter=lfs diff=lfs merge=lfs -text
-*.exe filter=lfs diff=lfs merge=lfs -text
