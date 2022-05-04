@@ -1,11 +1,5 @@
-variable "base_bucket_name" {
-  default = "datalake-igti-tf"
+variable "aws_region" {
+  default = "us-east-2"
 }
 
-variable "ambiente" {
-  default = "producao"
-}
-
-variable "numero_conta" {
-  default = "127012818163"
-}
+#Centralizar o arquivo de controle de estado do terraform
