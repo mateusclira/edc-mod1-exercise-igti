@@ -1,4 +1,4 @@
-resource "aws_s3_bucket_object" "codigo_spark" {
+resource "aws_s3_bucket_object" "codigo_spark_mateus" {
   bucket = aws_s3_bucket.dl.id
   key    = "emr-code/pyspark/job_spark_from_tf.py"
   acl    = "private"
