@@ -4,8 +4,8 @@ provider "aws" {
 
 terraform {
   backend "s3" {
-    bucket = "terraform-state-igti-mateus"
-    key    = "state/igti/edc/mod1/terraform.tfstate"
-    region = "us-east-2"
+      bucket = "terraform-state-igti-mateus"
+      key    = "state/igti/edc/mod1/terraform.tfstate"
+      region = "us-east-2"
   }
 }
