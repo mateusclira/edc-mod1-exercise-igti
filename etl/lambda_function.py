@@ -33,7 +33,7 @@ def handler(event, context):
                     'Ec2KeyName': 'mateus-igti-teste',
                     'KeepJobFlowAliveWhenNoSteps': True,
                     'TerminationProtected': False,
-                    'Ec2SubnetId': 'subnet-1df20360'
+                    'Ec2SubnetId': 'subnet-01c64bffe4efff163'
                 },
 
                 Applications=[
