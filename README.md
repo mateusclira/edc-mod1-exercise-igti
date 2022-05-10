@@ -1,2 +1,2 @@
-# edc-mod1-exercise-igti
-Exercise 1 BootCamp - Cloud Data Engineer - IGTI
+# Data Engineer Cloud - Module 1 - IGTI
+Challenge 1 from BootCamp - Cloud Data Engineer - IGTI
